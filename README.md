@@ -4,16 +4,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist/Network Engineer
 -------------------------------
 
+
 I am a Data Scientist, specializing in extracting insights from data to drive informed decision-making. Leveraging expertise in statistical analysis, machine learning, and data visualization, I uncover patterns and trends to solve complex problems and optimize business processes. From data collection and preprocessing to model development and deployment, I utilize cutting-edge techniques to deliver actionable insights and propel organizational success.
 
 As a Network Engineer, I specialize in designing, implementing, and maintaining robust network infrastructures. With a deep understanding of networking protocols, security measures, and troubleshooting techniques, I ensure seamless connectivity and optimal performance for organizations.
 
+
+
+
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [MyPortfolio](http://github.com/Juliana-Omoba/portfolio)
 * ✉️  You can contact me at [adeolaa33@gmail.com](mailto:adeolaa33@gmail.com)
-* 🧠  I'm learning Cybersecurity Analysis
+* 🧠  I'm learning Automation and Digital Agriculture, Cybersecurity Analysis
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Batlady, Tell Everyone
+
+<a href="https://www.github.com/Juliana-Omoba" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Juliana-Omoba?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
